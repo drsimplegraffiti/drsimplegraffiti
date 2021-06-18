@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abayomi</h1>
 <h3 align="center">A passionate Web developer from Nigeria</h3>
 
-![Calm Developer](https://th.bing.com/th/id/OIP.e45xlOsEEE4TuyIwO9hdRgHaEK?pid=ImgDet&rs=1)
+![Calm Developer](https://github.com/drsimplegraffiti/drsimplegraffiti/blob/main/my%20banner1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsimplegraffiti&label=Profile%20views&color=0e75b6&style=flat" alt="drsimplegraffiti" /> </p>
 
