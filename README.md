@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Backend Node Js**
 
-- 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io)
+<!-- - 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io) -->
 
 - 📝 I regularly write articles on [https://dev.to/drsimplegraffiti](https://dev.to/drsimplegraffiti)
 
