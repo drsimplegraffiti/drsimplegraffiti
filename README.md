@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/drsimplegraffi1" target="blank"><img src="https://img.shields.io/twitter/follow/drsimplegraffi1?logo=twitter&style=for-the-badge" alt="drsimplegraffi1" /></a> </p>
 
-- 🔭 I’m currently working on [Bookoroma](https://dashboard.heroku.com/apps/bookoroma)
+<!-- -- 🔭 I’m currently working on [Bookoroma](https://dashboard.heroku.com/apps/bookoroma)-->
 
 - 🌱 I’m currently learning **Backend Node Js**
 
