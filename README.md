@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/drsimplegraffiti](https://dev.to/drsimplegraffiti)
 
-- 📝 My Portfolio [Click Here](http://portfolio-liart-one-11.vercel.app/)
+- 📝 My Portfolio [Click Here](http://abportfolio.vercel.app/)
 
 - 📫 How to reach me **abayomiogunnusi@gmail.com**
 
