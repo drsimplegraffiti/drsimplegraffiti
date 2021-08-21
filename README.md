@@ -52,7 +52,7 @@
 ## Dev.to Post
 🔗 [Improve your Github Profile](https://dev.to/drsimplegraffiti/improve-your-github-page-5hhc)
 
-🔗 [Download Browser Page as PDF using JavaScript](https://dev.to/drsimplegraffiti/generate-invoice-pdf-dmd)
+🔗 [Download Browser Page as PDF](https://dev.to/drsimplegraffiti/generate-invoice-pdf-dmd)
 
 🔗 [Send mails using NodeJS](https://dev.to/drsimplegraffiti/send-mails-using-nodejs-42ag)
 
