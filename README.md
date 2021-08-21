@@ -47,3 +47,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drsimplegraffiti&show_icons=true&locale=en" alt="drsimplegraffiti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drsimplegraffiti&" alt="drsimplegraffiti" /></p>
+
+
+## Dev.to Post
+🔗 [Improve your Github Profile](https://dev.to/drsimplegraffiti/improve-your-github-page-5hhc)
+
+🔗 [Download Browser Page as PDF using JavaScript](https://dev.to/drsimplegraffiti/generate-invoice-pdf-dmd)
+
+🔗 [Send mails using NodeJS](https://dev.to/drsimplegraffiti/send-mails-using-nodejs-42ag)
+
+🔗 [Chat App using Socket.io](https://dev.to/drsimplegraffiti/chat-app-using-socket-io-1hp0)
