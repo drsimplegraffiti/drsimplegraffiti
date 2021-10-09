@@ -59,3 +59,5 @@
 🔗 [Chat App using Socket.io](https://dev.to/drsimplegraffiti/chat-app-using-socket-io-1hp0)
 
 🔗 [Expose a local web server to the internet](https://dev.to/drsimplegraffiti/ngrok-expose-a-local-web-server-to-the-internet-4m67)
+
+🔗 [Web scraping using Node Js](https://dev.to/drsimplegraffiti/i-scraped-dev-to-using-axios-and-cheerio-26ko)
