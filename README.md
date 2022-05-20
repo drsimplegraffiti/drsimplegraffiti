@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [All cheat sheets](https://all-cheat-sheet.vercel.app)
 
-- 🌱 I’m currently learning **Backend Node Js** and **Golang**
+- 🌱 I’m currently learning **NestJs** and **Golang**
 
 <!-- - 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io) -->
 
