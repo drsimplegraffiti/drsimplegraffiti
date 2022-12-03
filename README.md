@@ -1,6 +1,7 @@
 ###
 ![Calm Developer](https://github.com/drsimplegraffiti/drsimplegraffiti/blob/main/my%20banner1.png)
 <h1 align="center">Hi 👋, I'm Abayomi.</h1>
+<p>A <strong>Software Engineer</strong> interested in Backend</p>
 <h3 align="center">Software Engineer</h3>
 
 [![@drsimplegraffiti's Holopin board](https://holopin.io/api/user/board?user=drsimplegraffiti)](https://holopin.io/@drsimplegraffiti)
@@ -15,6 +16,7 @@
 - 🔭 I’m currently working on [All cheat sheets](https://all-cheat-sheet.vercel.app)
 
 - 🌱 I’m currently learning **Java** and **Spring**
+
 
 <!-- - 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io) -->
 
