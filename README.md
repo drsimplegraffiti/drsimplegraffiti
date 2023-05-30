@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/drsimplegraffiti](https://dev.to/drsimplegraffiti)
 
-- 📝 My Portfolio [Click Here](http://abportfolio.vercel.app/)
+- 📝 My Portfolio [Click Here](https://abayomidev.vercel.app/)
 
 - 📫 How to reach me **abayomiogunnusi@gmail.com**
 
