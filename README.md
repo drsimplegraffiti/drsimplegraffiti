@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [All cheat sheets](https://all-cheat-sheet.vercel.app)
 
-- 🌱 I’m currently learning **Java** and **Spring**
+- 🌱 I’m currently learning **C#** and **.Net**
 
 
 <!-- - 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io) -->
