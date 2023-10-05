@@ -4,7 +4,7 @@
 <p>A <strong>Software Engineer</strong> interested in Backend</p>
 <h3 align="center">Software Engineer</h3>
 
-[![@drsimplegraffiti's Holopin board](https://holopin.io/api/user/board?user=drsimplegraffiti)](https://holopin.io/@drsimplegraffiti)
+
 [![An image of @drsimplegraffiti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drsimplegraffiti)](https://holopin.io/@drsimplegraffiti)
 
 
