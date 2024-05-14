@@ -14,12 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/drsimplegraffi1" target="blank"><img src="https://img.shields.io/twitter/follow/drsimplegraffi1?logo=twitter&style=for-the-badge" alt="drsimplegraffi1" /></a> </p>
 
-- 🔭 I’m currently working on [All cheat sheets](https://all-cheat-sheet.vercel.app)
 
-- 🌱 I’m currently learning **C#** and **.Net**
-
-
-<!-- - 👨‍💻 All of my projects are available at [drsimplegraffiti.github.io](drsimplegraffiti.github.io) -->
 
 - 📝 I regularly write articles on [https://dev.to/drsimplegraffiti](https://dev.to/drsimplegraffiti)
 
@@ -29,7 +24,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abayomi-ogunnusi-974826141/](https://www.linkedin.com/in/abayomi-ogunnusi-974826141/)
 
-- ⚡ Fun fact **I'm an alien**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
